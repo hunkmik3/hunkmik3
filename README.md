@@ -1,3 +1,9 @@
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 # Hi, I'm Hưng Mai
 
 Frontend Developer focused on building modern websites, CMS-driven platforms, and automation tools with AI-assisted workflows.
