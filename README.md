@@ -1,108 +1,132 @@
-## Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-### Backend / CMS / Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-
-### Automation / Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
 # Hi, I'm Hưng Mai
 
-Frontend Developer focused on building modern websites, CMS-driven platforms, and automation tools with AI-assisted workflows.
+Frontend Developer and AI-assisted Web Builder focused on modern websites, CMS-driven platforms, media-heavy portfolios, and automation tools.
 
-I work mainly with **Next.js, React, Tailwind CSS, Strapi, Supabase, Cloudinary, Vercel**, and automation tools such as **Python, n8n, and Facebook API integrations**.
+I build practical products with **Next.js, React, TypeScript, JavaScript, Tailwind CSS, Supabase, Node.js, Python, Vercel, Cloudflare R2**, and AI-assisted development workflows.
 
 ---
 
 ## What I Build
 
 - Modern business websites and landing pages
-- CMS-based websites with admin dashboards
-- Portfolio and media-heavy websites
-- AI-assisted internal tools
-- Automation systems for marketing and operations
-- Frontend interfaces from Figma or reference websites
+- Portfolio websites for creative studios, photography, film, F&B, and agencies
+- Admin dashboards and CMS-style content management flows
+- E-learning platforms with authentication, lesson upload, user management, and score tracking
+- Automation tools for media processing, social workflows, scraping, and internal operations
+- AI-assisted tools for video, image, subtitle, and creative production workflows
 
 ---
 
 ## Tech Stack
 
-**Frontend**  
-Next.js · React · Tailwind CSS · Framer Motion · HTML · CSS · JavaScript
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-**CMS / Backend / Data**  
-Strapi · Supabase · REST API · Cloudinary · GitHub Storage · R2 Storage
+### Backend / Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-**Automation / Tools**  
-Python · PyQt5 · n8n · Facebook API · Cursor IDE · Codex
+### Database / Auth / CMS
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=fff)
 
-**Deployment**  
-Vercel · Railway · VPS · GitHub Actions
+### Automation / Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
+
+### Storage / Media / Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### AI-assisted Workflow
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
 
 ---
 
 ## Selected Projects
 
-### XuongArt Production
-A modern portfolio website for a video production company, focused on cinematic layout, media presentation, CMS management, and fast video delivery.
+### 20sCreative Portfolio
 
-**Stack:** Next.js, Tailwind CSS, Strapi, Cloudinary, Vercel
+A premium photography and filmmaking portfolio website built with Next.js.  
+The project includes fullscreen video background, responsive image gallery, lightbox viewer, smooth page transitions, mobile-friendly navigation, SEO setup, and a dark luxury visual style.
+
+**Stack:** Next.js, TypeScript, CSS, JavaScript, Vercel
 
 ---
 
 ### Mini Hippo Learning Platform
-An e-learning platform with admin upload flows, lesson management, practice sets, user/device operations, and student results tracking.
 
-**Stack:** HTML, JavaScript, Supabase, Vercel, GitHub
+An e-learning platform with authentication, admin lesson upload, user management, device quota enforcement, lesson display, practice score tracking, and reporting.
 
----
+The system uses Supabase for authentication and PostgreSQL data, Vercel Serverless Functions for backend APIs, GitHub storage for lesson files, and Vercel for deployment.
 
-### D9 Website Agency
-Agency-style website with responsive UI, structured sections, and modern frontend implementation.
-
-**Stack:** JavaScript, HTML, CSS
+**Stack:** JavaScript, HTML, CSS, Bootstrap, Node.js Serverless Functions, Supabase, PostgreSQL, Vercel
 
 ---
 
-### F0 Tech Website
-Business website with custom branding, responsive layout, and content-focused presentation.
+### AI Anime Pipeline / Flowboard
 
-**Stack:** HTML, SCSS, Bootstrap, JavaScript
+A local-first AI media workflow tool for composing characters, products, scenes, and videos as a graph-based workspace.
+
+The project combines frontend canvas interaction, backend orchestration, Chrome extension integration, AI provider workflows, and media generation pipelines.
+
+**Stack:** Python, FastAPI, Node.js, React, TypeScript, React Flow, Chrome Extension MV3
+
+---
+
+### Website & Landing Page Projects
+
+A collection of business websites, agency websites, F&B pages, creative landing pages, and brand presentation sites.
+
+
+**Stack:** HTML, CSS, JavaScript, TypeScript, Next.js, Vercel
+
+---
+
+### Automation & Utility Tools
+
+A set of Python and JavaScript tools for scraping, media processing, watermark handling, account checking, comment fetching, subtitle processing, and workflow automation.
+
+**Stack:** Python, JavaScript, HTML, API automation, scripting tools
 
 ---
 
 ## How I Work
 
-I use AI-assisted development tools to move faster, but I focus on understanding the product, structuring the frontend properly, and delivering usable interfaces.
+I use AI-assisted development tools to move faster, but I focus on shipping usable products, not just generating code.
 
 My workflow usually includes:
 
-1. Clarifying business requirements
-2. Breaking features into frontend, CMS, media, and deployment tasks
-3. Building a clean UI structure
-4. Connecting data from CMS or backend services
-5. Testing responsive behavior and deployment stability
+1. Understanding the business goal
+2. Breaking requirements into frontend, backend, data, media, and deployment tasks
+3. Building clean UI structure and reusable components
+4. Connecting CMS, database, storage, or API services
+5. Testing real user flows, deployment, and maintainability
 
 ---
 
 ## Current Focus
 
-- Next.js websites with CMS integration
-- Media-heavy portfolio websites
-- Admin dashboard UX improvement
-- AI-assisted development workflows
-- Automation tools for business operations
+- Next.js websites and portfolio systems
+- CMS and admin dashboard workflows
+- E-learning platforms
+- AI-assisted development pipelines
+- Automation tools for business and media operations
+- Media-heavy websites with image, video, and storage optimization
 
 ---
 
